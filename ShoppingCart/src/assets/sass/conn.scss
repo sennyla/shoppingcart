@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1, h2,h3,h4,h5 {
+  font-weight: normal;
+  font-size:0.26rem;
+}
+
+ul,ol,li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+},
+input,textarea,select,option{
+    border:0;
+    outline: none;
+    resize: none;
+}
+body{
+    font-size:0.28rem;
+    background:#eee;
+}

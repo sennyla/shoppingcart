@@ -1,0 +1,16 @@
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const CHECKOUT_REQUEST = 'CHECKOUT_REQUEST'
+export const CHECKOUT_SUCCESS = 'CHECKOUT_SUCCESS'
+export const CHECKOUT_FAILURE = 'CHECKOUT_FAILURE'
+export const RECEIVE_PRODUCTS = 'RECEIVE_PRODUCTS'
+
+export const SET_DEFAULT = 'SET_DEFAULT'
+
+export const ADD_ACTION = 'ADD_ACTION'
+
+export const DEL_GOODS = 'SELECT_ALL'
+export const SURE_DELGOODS = 'SURE_DELGOODS'
+export const CANCLE_DELGOODS = 'CANCLE_DELGOODS'
+
+export const TEXT_CLICK = 'TEXT_CLICK'
+export const ALL_SELECT = 'ALL_SELECT'
